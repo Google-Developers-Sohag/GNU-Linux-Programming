@@ -1,17 +1,3 @@
-On the CD-ROM
-
-The CD-ROM contains the example programs and scripts that are demonstrated
-in the text "GNU/Linux Application Programming."  The following identifies
-the contents of each of the subdirectories on this CD-ROM.
-
-
-System Requirements
-
-Sample applications on this CD-ROM will run on any Linux distribution that
-utilizes a 2.6 Linux kernel.  These applications were developed on the 
-Fedora and Ubuntu Linux distributions.
-
-
 Software by Chapter
 
 ./software/ch6 ("Building Software with GNU/Make")
