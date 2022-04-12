@@ -1,3 +1,3 @@
-# CD of GNU/Linux Application Programming Book
+# GNU/Linux Application Programming Book Sources
 
 ## Contents : 
